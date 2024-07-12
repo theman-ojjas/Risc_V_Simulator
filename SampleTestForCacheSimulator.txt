@@ -1,0 +1,20 @@
+Enter the cache size in bytes: 8192
+Enter the block size in bytes: 64
+Enter the number of ways in the cache: 4
+Enter the memory size in bytes: 65536
+
+Enter type of instruction:
+ 0 for manual input
+ 1 for random instructions
+ 2 for trace input:
+0
+The instruction set:
+
+Instructions:
+rd 24 4
+wr 67 8 100
+rd 48 6
+wr 83 2 255
+rd 101 1
+rd 67 8
+rd 67 9
